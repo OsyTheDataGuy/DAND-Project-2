@@ -41,7 +41,7 @@ Based on the data and analysis carried out, I found that:
 3. Tweeting from a web browser seems to have gathered more retweets on average. It is important to note that other factors (such as tweet content) are likely contributing here.
 
 ## Limitations
-1. 84% (1561/1851) of the dogs didn't have a category. This means conclusions about dog stae were made on a very small portion of the observations.
+1. 84% (1561/1851) of the dogs didn't have a category. This means conclusions about dog stage were made on a very small portion of the observations.
 
 2. A tweet source "Vine - Make a Scene" wasn't part of the final analysis. I suspect this tweet source was dropped when I dropped retweet rows and tweets with nonstandard dog names.
 
